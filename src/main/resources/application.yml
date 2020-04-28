@@ -1,0 +1,5 @@
+mybatis:
+  configuration:
+    mapUnderscoreToCamelCase: true
+server:
+  port: 8082
